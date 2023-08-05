@@ -1,5 +1,11 @@
-### Hi there 👋
+### :hugs: Welcome to my GitHub-Repo
+Philomath and a great lover … of Math and Science.
 
+### :thinking: I’m looking to collaborate on
+anything open source from machine learning to quantum computing.
+
+### :sunglasses: How to reach me
+Feel free to ping me on Linkedin
 <!--
 **benoitdescamps/benoitdescamps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
